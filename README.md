@@ -1,1 +1,1 @@
-option 26: 2 ** (np.cos(x) - np.sin(x)) * np.cos(1 + np.log(1 + x))
+option 26: 2^(cos(x)-sin(x))*cos(1+ln(1+x))
